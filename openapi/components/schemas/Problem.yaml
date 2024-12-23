@@ -18,7 +18,7 @@ properties:
     description: >-
       A short, human-readable summary of the problem type. It SHOULD NOT change
       from occurrence to occurrence of the problem, except for purposes of
-      localization.
+      localization. Test git
   status:
     type: integer
     description: The HTTP status code.
